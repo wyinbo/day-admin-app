@@ -1,0 +1,6 @@
+import "@babel/plugin-syntax-dynamic-import"
+
+export default {
+    "presets": ["env"],
+    "plugins": ["syntax-dynamic-import"]
+}
